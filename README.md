@@ -28,6 +28,6 @@ This project is a simple web application built as part of a web development inte
 
 ## 🌐 Live Demo
 
-[View on GitHub Pages](https://Maneeshkumar2425.github.io/task-7/)
+[View on GitHub Pages](https://Maneeshkumar2425.github.io/Assignment7/)
 
 
